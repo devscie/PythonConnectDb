@@ -17,6 +17,7 @@ print('Tabelas:')
 for tabela in cursor.fetchall():
     print("%s" % (tabela))
 
+# listando as colunas da tabela
 colunas = [tupla[1] for tupla in cursor.fetchall()]
 print('Colunas:', colunas)
 # ou
