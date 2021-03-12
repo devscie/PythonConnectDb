@@ -78,7 +78,10 @@ Este projeto esta sobe a licença MIT.
 <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/78492236?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt="image profile"/>
 <b>Vinicius George dos Santos</b>
 <br />
+
 👋🏽 Entre em contato!
+
 <br />
+
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-george-dos-santos-932b29167/)](https://www.linkedin.com/in/vinicius-george-dos-santos-932b29167/) 
 [![Gmail Badge](https://img.shields.io/badge/-devscient@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devscient@gmail.com)](mailto:devscient@gmail.com)
