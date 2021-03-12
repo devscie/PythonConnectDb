@@ -18,21 +18,21 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Índice de conteúdos
 =================
 <!--ts-->
-   * [Conectando e desconectando do banco](#conectando-e-desconectando-do-banco)
-   * [Criando um banco de dados](#criando-um-banco-de-dados)
-   * [Criando uma tabela](#criando-uma-tabela)
+   * [Conectando e desconectando do banco](https://github.com/devscie/PythonConnectDb/blob/master/connect_db.py)
+   * [Criando um banco de dados](https://github.com/devscie/PythonConnectDb/blob/master/01_create_db.py)
+   * [Criando uma tabela](https://github.com/devscie/PythonConnectDb/blob/master/02_create_schema.py)
    * [Comandos](#comandos)
-      * [Create - Inserindo 1 registro com comando SQL](#create-inserindo-1-registro-com-comando-sql)
-      * [Create - Inserindo N registros com uma tupla de dados](#create-inserindo-n-registro-com-uma-tupla-de-dados)
-      * [Create - Inserindo 1 registro com parâmetros de entrada](#create-inserindo-1-registro-com-parametros-de-entrada)
-      * [Read - Lendo os dados](#read-lendo-os-dados)
-      * [Update - Alterando os dados](#update-alterando-os-dados)
-      * [Delete - Deletando os dados](#delete-deletando-os-dados)
-      * [Alter - Adicionando uma nova coluna](#alter-adicionando-uma-nova-coluna)
-   * [Lendo as informações do banco de dados](#lendo-as-informações-do-banco-de-dados)
-   * [Fazendo backup do banco de dados (exportando dados)](#fazendo-backup-do-banco-de-dados-exportando-dados)
-   * [Recuperando backup do banco de dados (importando dados)](#recuperando-backup-do-banco-de-dados-importando-dados)
-   * [Tecnologias](#tecnologias)
+      * [Create - Inserindo 1 registro com comando SQL](https://github.com/devscie/PythonConnectDb/blob/master/03_create_data_sql.py)
+      * [Create - Inserindo N registros com uma tupla de dados](https://github.com/devscie/PythonConnectDb/blob/master/04_create_data_nrecords.py)
+      * [Create - Inserindo 1 registro com parâmetros de entrada](https://github.com/devscie/PythonConnectDb/blob/master/05_create_data_param.py)
+      * [Read - Lendo os dados](https://github.com/devscie/PythonConnectDb/blob/master/06_read_data.py)
+      * [Update - Alterando os dados](https://github.com/devscie/PythonConnectDb/blob/master/07_update_data.py)
+      * [Delete - Deletando os dados](https://github.com/devscie/PythonConnectDb/blob/master/08_delete_data.py)
+      * [Alter - Adicionando uma nova coluna](https://github.com/devscie/PythonConnectDb/blob/master/09_alter_table.py)
+   * [Lendo as informações do banco de dados](https://github.com/devscie/PythonConnectDb/blob/master/10_view_table_info.py)
+   * [Fazendo backup do banco de dados (exportando dados)](https://github.com/devscie/PythonConnectDb/blob/master/11_backup.py)
+   * [Recuperando backup do banco de dados (importando dados)](https://github.com/devscie/PythonConnectDb/blob/master/12_recovery_sql.py)
+   * [License)](https://github.com/devscie/PythonConnectDb/blob/master/LICENSE)
 <!--te-->
 
 ### Features
