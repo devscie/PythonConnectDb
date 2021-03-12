@@ -57,6 +57,48 @@ $ git clone <https://github.com/devscie/PythonConnectDb>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd PythonConnectDb
+
+# Criando um banco de dados
+$ python3 01_create_db.py
+$ ls *.db
+
+# Criando uma tabela
+$ python3 02_create_schema.py
+$ sqlite3 clientes.db '.tables'
+$ sqlite3 clientes.db 'PRAGMA table_info(clientes)'
+
+# Create - Inserindo 1 registro com comando SQL
+$ python3 03_create_data_sql.py
+
+# Create - Inserindo N registros com uma tupla de dados
+$ python3 04_create_data_nrecords.py
+
+# Create - Inserindo 1 registro com parâmetros de entrada
+$ python3 05_create_data_param.py
+
+# Read - Lendo os dados
+$ python3 06_read_data.py
+
+# Update - Alterando os dados
+$ python3 07_update_data.py
+
+# Delete - Deletando os dados
+$ python3 08_delete_data.py
+
+# Alter - Adicionando uma nova coluna
+$ python3 09_alter_table.py
+
+# Lendo as informações do banco de dados
+$ python3 10_view_table_info.py
+
+# Fazendo backup do banco de dados (exportando dados)
+$ python3 11_backup.py
+$ cat clientes_dump.sql
+
+# Recuperando backup do banco de dados (importando dados)
+$ python3 12_read_sql.py
+$ sqlite3 clientes_recuperado.db 'SELECT * FROM clientes;'
+
 ```
 
 ##	🚧  🐍 Python & 🎲 SQLite (Em construção)  🚧
