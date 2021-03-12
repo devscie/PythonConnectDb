@@ -101,7 +101,7 @@ $ sqlite3 clientes_recuperado.db 'SELECT * FROM clientes;'
 
 ```
 
-###	🚧  🐍 Python & 🎲 SQLite (Em construção)  🚧
+###	🚧 Python & SQLite (Em construção) 🚧
 
 ### Como contribuir para o projeto
 
