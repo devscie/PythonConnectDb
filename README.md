@@ -74,14 +74,11 @@ $ cd PythonConnectDb
 Este projeto esta sobe a licença MIT.
 
 ## Autor
----
 
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/78492236?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt="image profile"/>
- <br />
- <sub><b>Vinicius George dos Santos</b></sub>
-
-
+<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/78492236?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt="image profile"/>
+<sub><b>Vinicius George dos Santos</b></sub>
+<br/>
 Feito com 🧑‍💻 por Vinicius Santos 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-george-dos-santos-932b29167/)](https://www.linkedin.com/in/vinicius-george-dos-santos-932b29167/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius-Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-george-dos-santos-932b29167/)](https://www.linkedin.com/in/vinicius-george-dos-santos-932b29167/) 
 [![Gmail Badge](https://img.shields.io/badge/-devscient@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devscient@gmail.com)](mailto:devscient@gmail.com)
