@@ -34,6 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
    * [Recuperando backup do banco de dados (importando dados)](https://github.com/devscie/PythonConnectDb/blob/master/12_recovery_sql.py)
    * [License](https://github.com/devscie/PythonConnectDb/blob/master/LICENSE)
 <!--te-->
+=================
 
 ### Features
 
