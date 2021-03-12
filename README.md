@@ -122,7 +122,7 @@ Este projeto esta sobe a licença MIT.
 <b>Vinicius George dos Santos</b>
 <br /><br />
 
-### 👋🏽 Entre em contato!
+👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-george-dos-santos-932b29167/)](https://www.linkedin.com/in/vinicius-george-dos-santos-932b29167/) 
 [![Gmail Badge](https://img.shields.io/badge/-devscient@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devscient@gmail.com)](mailto:devscient@gmail.com)
