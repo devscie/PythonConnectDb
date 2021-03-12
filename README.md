@@ -1,8 +1,10 @@
 <h1 align="center"> 🐍 Python & 🎲 SQLite</h1>
 
+<p align="center">
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 [![GitHub license](https://img.shields.io/github/license/devscie/PythonConnectDb)](https://github.com/devscie/PythonConnectDb/blob/master/LICENSE)
+</p>
 
 ## 💻 Sobre o projeto
 
