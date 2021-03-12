@@ -75,7 +75,7 @@ Este projeto esta sobe a licença MIT.
 
 ## Autor
 
-<img src="https://avatars3.githubusercontent.com/u/78492236 width="100px;" alt="Avatar" style="border-radius: 50%;">
+<img src="https://avatars3.githubusercontent.com/u/78492236" width="100px;" alt="Avatar" style="border-radius: 50%;">
 <b>Vinicius George dos Santos</b>
 <br /><br />
 
